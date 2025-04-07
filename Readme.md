@@ -20,7 +20,7 @@ Each participant has built an awesome 📅 **React Calendar Project** as part of
 ---
 
 ### 🧑‍💻 ABI A  
-- 🐙 GitHub: [Linkr](https://github.com/ABIANBALAGAN/Calendar)  
+- 🐙 GitHub: [Link](https://github.com/ABIANBALAGAN/Calendar)  
 - 🌍 Live Site: [Link](https://calendar-eight-blush.vercel.app/)
 
 ---
