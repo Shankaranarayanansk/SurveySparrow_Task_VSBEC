@@ -26,7 +26,7 @@ Each participant has built an awesome 📅 **React Calendar Project** as part of
 ---
 
 ### 🧑‍💻 Navaneethakrishnan S  
-- 🐙 GitHub: [Link](https://mrnavaneethakrishnan.github.io/Calender_pro/)  
+- 🐙 GitHub: [Link](https://github.com/Mrnavaneethakrishnan/Calender_pro)  
 - 🌍 Live Site: [Link](https://calender-pro.vercel.app/)
 
 ---
